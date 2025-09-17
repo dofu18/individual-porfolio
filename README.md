@@ -43,7 +43,7 @@ my-portfolio/
 
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/my-portfolio.git
+git clone https://github.com/dofu18/individual-portfolio.git
 cd my-portfolio
 ````
 
@@ -73,27 +73,7 @@ npm run preview
 
 ---
 
-## 🖼️ Screenshots
-
-*(Add your screenshots here once you have the design ready)*
-
----
-
 ## 📧 Contact
 
-* **Email:** [johndoe@example.com](mailto:johndoe@example.com)
-* **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
-* **GitHub:** [github.com/johndoe](https://github.com/johndoe)
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-Bạn có muốn mình thêm luôn **ảnh demo (screenshot / GIF)** và **badge đẹp (npm, React, Vite, license)** để README trông chuyên nghiệp hơn không?
-```
+* **Email:** [phudht1811@gmail.com](mailto:phudht1811@gmail.com)
+* **GitHub:** [github.com/dofu18](https://github.com/dofu18)
